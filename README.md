@@ -1,2 +1,2 @@
-# OP-Piano-2.2v
-OP piano script
+This script was not made by me
+Join the discord at https://discord.gg/Kxy5N8udec
